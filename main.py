@@ -1,8 +1,6 @@
 import openai
 import tkinter as tk
 from tkinter import ttk
-from ttkthemes import ThemedTk
-from art import *
 import sv_ttk
 import pygments.lexers
 from chlorophyll import CodeView
